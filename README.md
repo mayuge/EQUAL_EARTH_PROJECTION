@@ -1,0 +1,2 @@
+# EQUAL_EARTH_PROJECTION
+web地図でイコールアース図法を表示するデモ
