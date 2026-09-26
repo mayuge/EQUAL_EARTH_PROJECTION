@@ -1,2 +1,4 @@
 # EQUAL_EARTH_PROJECTION
-web地図でイコールアース図法を表示するデモ
+
+- Demo of the Equal Earth Projection in MapLibre
+- web地図でイコールアース図法を表示するデモ
